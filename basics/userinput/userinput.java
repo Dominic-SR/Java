@@ -4,8 +4,6 @@ class userinput{
    Scanner dom = new Scanner(System.in);
    int a = dom.nextInt();
    String b = dom.nextLine();
-
    System.out.print(a+b);
-
  }
 }
